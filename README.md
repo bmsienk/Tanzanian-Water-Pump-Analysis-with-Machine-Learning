@@ -1,6 +1,9 @@
+![Mount Killimanjaro](Pictures/tanzania-mount-kilimanjaro.jpg)
+
 # Tanzanian-Water-Pumps-ML
 
 Flatiron School Data Science Phase 3 Project
+
 Author: Brandon Sienkiewicz
 
 # Overview
